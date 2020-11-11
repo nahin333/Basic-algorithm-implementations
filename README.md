@@ -1,1 +1,1 @@
-# basic-algorithm-implementations-in-c-
+# Basic algorithm implementations in c++
