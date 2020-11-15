@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1505929873 source:d:\mst\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+

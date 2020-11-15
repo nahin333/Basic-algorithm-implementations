@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1496639847 source:d:\fgq\main.cpp
+	"Seq.h"
+	<string>
+	<iostream>
+
+1496639847 d:\fgq\seq.h
+

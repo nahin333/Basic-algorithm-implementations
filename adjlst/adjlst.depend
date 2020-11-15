@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1503743844 source:d:\adjlst\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<list>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1492707546 source:c:\dev-cpp\assignmnt\main.cpp
+	<iostream>
+	<string>
+

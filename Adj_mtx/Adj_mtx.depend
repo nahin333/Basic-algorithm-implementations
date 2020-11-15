@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1503737721 source:d:\adj_mtx\main.cpp
+	<iostream>
+	<fstream>
+

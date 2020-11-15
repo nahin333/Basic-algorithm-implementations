@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1491314292 source:c:\dev-cpp\1\main.cpp
+	<iostream>
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<iostream>
+	<iostream>
+	<map>
+	<vector>
+	<list>
+	<string>
+	<iostream>
+	<iostream>
+	<iostream>
+	<iostream>
+	<vector>
+	<iostream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1492016908 source:c:\dev-cpp\lnk_lst\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdio>
+

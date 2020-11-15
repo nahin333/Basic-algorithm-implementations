@@ -1,0 +1,5 @@
+1 abul
+2 kabul
+3 shabul
+4 babul
+5 habul

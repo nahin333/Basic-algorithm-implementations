@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1503764701 source:d:\wt_adj_lst\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<list>
+

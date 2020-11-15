@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1385316878 source:c:\dev-cpp\cse\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1464868133 source:c:\dev-cpp\cse\cse1.c
+	<stdio.h>
+
+1474822888 source:c:\dev-cpp\cse\untitled1fdgdfghdf.c
+
+1479054870 source:c:\dev-cpp\cse\cse4.c
+	<stdio.h>
+
+1479227310 source:c:\dev-cpp\cse\sub.c
+
+1479227801 source:c:\dev-cpp\cse\sum.c
+
+1480256939 source:c:\dev-cpp\cse\cse8.c
+	<stdio.h>
+

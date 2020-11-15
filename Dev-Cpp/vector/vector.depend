@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1494856947 source:c:\dev-cpp\vector\main.cpp
+	<iostream>
+	"stack.h"
+
+1494856918 c:\dev-cpp\vector\stack.h
+
